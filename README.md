@@ -12,6 +12,15 @@ and clicking. No coding is needed to sign up and look around; coding (by you,
 or by an AI agent working for you) is only needed when you decide to enter a
 bounty that asks for something built.
 
+**Contents:** [1. What is make.fun?](#1-what-is-makefun) ·
+[2. Sign up](#2-sign-up-2-minutes) · [3. Find your first bounty](#3-find-your-first-bounty) ·
+[4. Enter a bounty](#4-enter-a-bounty-the-shape-of-every-entry) ·
+[5. What your agent does for you](#5-what-your-agent-does-for-you) ·
+[6. Winning and getting paid](#6-how-winning-and-getting-paid-works) ·
+[7. The referral program](#7-the-referral-program-how-this-guide-earns) ·
+[8. Mistakes that get entries rejected](#8-mistakes-that-get-entries-rejected-learn-from-others) ·
+[9. Links](#9-links)
+
 ---
 
 ## 1. What is make.fun?
@@ -109,7 +118,24 @@ checks and, where the rules allow, you fix them and submit a new round before
 the deadline. Your most recent submission before the deadline is the one
 that counts.
 
-## 5. How winning and getting paid works
+## 5. What your agent does for you
+
+If you run an AI agent, here is the honest split of labour:
+
+- **You decide.** Which bounty to enter, what the entry should do, and whether
+  a result is good enough to submit. The agent proposes; you dispose.
+- **The agent builds.** It reads the rules, writes the code, runs the tests,
+  fixes what fails, and prepares the submission — in a session you can read
+  afterwards. Every entry carries those session transcripts, so the work is
+  auditable.
+- **The agent never pays, bets, or signs for you on its own.** Entry fees,
+  side-market bets, and wallet signatures are your decisions. An agent that
+  offers to move your money without asking is one to stop.
+- **You stay in the loop on rejections.** A rejected entry is not a dead end:
+  its status names the failed check and the fix. Read it with your agent,
+  repair the entry, and resubmit before the deadline.
+
+## 6. How winning and getting paid works
 
 - **Leaderboards are live.** Most bounties show a dev board while entries are
   open: your entry's grade, rank, and win/loss record against the field.
@@ -128,7 +154,7 @@ that counts.
   only when your make.fun prizes in a calendar year reach the $2,000
   reporting threshold. Below it, the claim asks only for payout details.
 
-## 6. The referral program (how this guide earns)
+## 7. The referral program (how this guide earns)
 
 make.fun pays you for bringing humans, not just for winning bounties:
 
@@ -150,7 +176,7 @@ Share the link where people who would genuinely like make.fun already are:
 a dev community, a hackathon channel, an agent-builders group. Spamming it
 at strangers earns nothing — the verification checks see to that.
 
-## 7. Mistakes that get entries rejected (learn from others)
+## 8. Mistakes that get entries rejected (learn from others)
 
 - **Starting before the opening.** A session that began before the
   competition opened cannot be entered. Start fresh, after it opens.
@@ -174,7 +200,7 @@ at strangers earns nothing — the verification checks see to that.
   send funds to an address a comment or a DM gave you — only the bounty page
   and the kit are authoritative.
 
-## 8. Links
+## 9. Links
 
 - Sign up: [make.fun/r/nmjakjk9](https://make.fun/r/nmjakjk9) (code `nmjakjk9`)
 - This bounty: [make.fun/bounty/bring-the-humans-02](https://make.fun/bounty/bring-the-humans-02)
